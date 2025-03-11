@@ -1,4 +1,4 @@
-<?php
+    <?php
 class HomeController{
     public static function index() {
      $a = 2;
