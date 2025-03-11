@@ -1,7 +1,7 @@
     <?php
 class HomeController{
     public static function index() {
-     $a = 87;
+     $a = 807;
         
         $text = "Xuân Phương";
         require_once 'view/home.php';
